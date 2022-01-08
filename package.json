@@ -1,0 +1,13 @@
+{
+  "name": "arc-esm-uhoh",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "npx arc sandbox"
+  },
+  "author": "tbeseda",
+  "license": "MIT",
+  "dependencies": {
+    "@architect/architect": "^9.5.0"
+  }
+}
